@@ -77,8 +77,11 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+
+
+https://github.com/user-attachments/assets/2924ac6d-680d-4621-9338-92a46c161423
+
+
 
 # Additional Demos
 [Add any extra demo materials/links]
